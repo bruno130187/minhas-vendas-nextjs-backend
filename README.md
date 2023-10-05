@@ -11,10 +11,6 @@ Link do arquivo .sql do banco de dados:
 
 ### `npm run dev`
 
-<p align="center">
-<img src="https://github.com/bruno130187/minhas-vendas-nextjs-frontend/blob/main/minhas-vendas-next.png" />
-</p> 
-
-Link do projeto Backend: [https://github.com/bruno130187/minhas-vendas-nextjs-backend]
+Link do projeto Frontend: [https://github.com/bruno130187/minhas-vendas-nextjs-frontend]
 
 Segue meu LinkedIn: [https://www.linkedin.com/in/bruno-araujo-oficial/]
